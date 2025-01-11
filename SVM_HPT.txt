@@ -1,0 +1,123 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2821
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww19320\viewh12900\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 [CV] END C=38.02532513742361, gamma=0.3901306590299257, kernel=rbf; total time=32.1min\
+[CV] END C=38.02532513742361, gamma=0.3901306590299257, kernel=rbf; total time=32.1min\
+[CV] END C=38.02532513742361, gamma=0.3901306590299257, kernel=rbf; total time=32.1min\
+[CV] END C=54.59446198738832, gamma=0.002921633262508049, kernel=linear; total time=32.2min\
+[CV] END C=40.96112910761563, gamma=0.367969167474549, kernel=rbf; total time=32.3min\
+[CV] END C=40.96112910761563, gamma=0.367969167474549, kernel=rbf; total time=32.3min\
+[CV] END C=54.59446198738832, gamma=0.002921633262508049, kernel=linear; total time=32.5min\
+[CV] END C=40.96112910761563, gamma=0.367969167474549, kernel=rbf; total time=32.6min\
+[CV] END C=40.96112910761563, gamma=0.367969167474549, kernel=rbf; total time=32.7min\
+[CV] END C=40.96112910761563, gamma=0.367969167474549, kernel=rbf; total time=32.7min\
+[CV] END C=54.59446198738832, gamma=0.002921633262508049, kernel=linear; total time=33.0min\
+[CV] END C=54.59446198738832, gamma=0.002921633262508049, kernel=linear; total time=33.0min\
+[CV] END C=46.40484709351605, gamma=0.7917235295830276, kernel=rbf; total time=22.0min\
+[CV] END C=27.832277335726474, gamma=0.7111569992959464, kernel=linear; total time=21.2min\
+[CV] END C=27.832277335726474, gamma=0.7111569992959464, kernel=linear; total time=21.5min\
+[CV] END C=46.40484709351605, gamma=0.7917235295830276, kernel=rbf; total time=21.9min\
+[CV] END C=46.40484709351605, gamma=0.7917235295830276, kernel=rbf; total time=22.1min\
+[CV] END C=46.40484709351605, gamma=0.7917235295830276, kernel=rbf; total time=22.2min\
+[CV] END C=27.832277335726474, gamma=0.7111569992959464, kernel=linear; total time=22.7min\
+[CV] END C=27.832277335726474, gamma=0.7111569992959464, kernel=linear; total time=22.9min\
+[CV] END C=27.832277335726474, gamma=0.7111569992959464, kernel=linear; total time=23.0min\
+[CV] END C=6.493247433164761, gamma=0.6516312229135528, kernel=rbf; total time=23.2min\
+[CV] END C=6.493247433164761, gamma=0.6516312229135528, kernel=rbf; total time=23.2min\
+[CV] END C=41.004187973074345, gamma=0.45327206722276325, kernel=linear; total time=26.1min\
+[CV] END C=41.004187973074345, gamma=0.45327206722276325, kernel=linear; total time=27.5min\
+[CV] END C=41.004187973074345, gamma=0.45327206722276325, kernel=linear; total time=28.0min\
+[CV] END C=41.004187973074345, gamma=0.45327206722276325, kernel=linear; total time=28.0min\
+[CV] END C=41.004187973074345, gamma=0.45327206722276325, kernel=linear; total time=28.2min\
+[CV] END C=6.493247433164761, gamma=0.6516312229135528, kernel=rbf; total time=39.7min\
+[CV] END C=29.090272171832677, gamma=0.6222480700406146, kernel=linear; total time=44.0min\
+[CV] END C=29.090272171832677, gamma=0.6222480700406146, kernel=linear; total time=44.1min\
+[CV] END C=6.493247433164761, gamma=0.6516312229135528, kernel=rbf; total time=45.2min\
+[CV] END C=6.493247433164761, gamma=0.6516312229135528, kernel=rbf; total time=45.0min\
+[CV] END C=29.090272171832677, gamma=0.6222480700406146, kernel=linear; total time=43.6min\
+[CV] END C=29.090272171832677, gamma=0.6222480700406146, kernel=linear; total time=45.1min\
+[CV] END C=29.090272171832677, gamma=0.6222480700406146, kernel=linear; total time=44.2min\
+[CV] END C=36.16693671702041, gamma=0.853026157480402, kernel=linear; total time=46.6min\
+[CV] END C=36.16693671702041, gamma=0.853026157480402, kernel=linear; total time=46.1min\
+[CV] END C=36.16693671702041, gamma=0.853026157480402, kernel=linear; total time=46.4min\
+[CV] END C=36.16693671702041, gamma=0.853026157480402, kernel=linear; total time=46.4min\
+[CV] END C=36.16693671702041, gamma=0.853026157480402, kernel=linear; total time=45.9min\
+[CV] END C=72.09330567038161, gamma=0.41395047669453666, kernel=rbf; total time=52.4min\
+[CV] END C=72.09330567038161, gamma=0.41395047669453666, kernel=rbf; total time=52.8min\
+[CV] END C=72.09330567038161, gamma=0.41395047669453666, kernel=rbf; total time=52.6min\
+[CV] END C=69.55873562615993, gamma=0.7693656850240893, kernel=rbf; total time=21.1min\
+[CV] END C=69.55873562615993, gamma=0.7693656850240893, kernel=rbf; total time=21.1min\
+[CV] END C=69.55873562615993, gamma=0.7693656850240893, kernel=rbf; total time=21.1min\
+[CV] END C=69.55873562615993, gamma=0.7693656850240893, kernel=rbf; total time=21.2min\
+[CV] END C=72.09330567038161, gamma=0.41395047669453666, kernel=rbf; total time=35.9min\
+[CV] END C=69.55873562615993, gamma=0.7693656850240893, kernel=rbf; total time=20.9min\
+[CV] END C=70.1431316168611, gamma=0.5815036406009089, kernel=rbf; total time=22.8min\
+[CV] END C=70.1431316168611, gamma=0.5815036406009089, kernel=rbf; total time=22.8min\
+[CV] END C=70.1431316168611, gamma=0.5815036406009089, kernel=rbf; total time=23.0min\
+[CV] END C=70.1431316168611, gamma=0.5815036406009089, kernel=rbf; total time=22.9min\
+[CV] END C=1.7451663293757358, gamma=0.20351340727819356, kernel=rbf; total time= 6.3min\
+[CV] END C=1.7451663293757358, gamma=0.20351340727819356, kernel=rbf; total time= 6.4min\
+[CV] END C=1.7451663293757358, gamma=0.20351340727819356, kernel=rbf; total time= 6.3min\
+[CV] END C=1.7451663293757358, gamma=0.20351340727819356, kernel=rbf; total time= 6.4min\
+[CV] END C=1.7451663293757358, gamma=0.20351340727819356, kernel=rbf; total time= 6.3min\
+[CV] END C=72.09330567038161, gamma=0.41395047669453666, kernel=rbf; total time=29.9min\
+[CV] END C=70.1431316168611, gamma=0.5815036406009089, kernel=rbf; total time=22.9min\
+[CV] END C=71.23670095321215, gamma=0.7793723408342768, kernel=linear; total time=37.5min\
+[CV] END C=71.23670095321215, gamma=0.7793723408342768, kernel=linear; total time=36.6min\
+[CV] END C=71.23670095321215, gamma=0.7793723408342768, kernel=linear; total time=37.3min\
+[CV] END C=71.23670095321215, gamma=0.7793723408342768, kernel=linear; total time=38.1min\
+[CV] END C=56.41023493128766, gamma=0.6179458932625421, kernel=linear; total time=33.2min\
+[CV] END C=71.23670095321215, gamma=0.7793723408342768, kernel=linear; total time=37.1min\
+[CV] END C=56.41023493128766, gamma=0.6179458932625421, kernel=linear; total time=32.4min\
+[CV] END C=56.41023493128766, gamma=0.6179458932625421, kernel=linear; total time=33.0min\
+[CV] END C=56.41023493128766, gamma=0.6179458932625421, kernel=linear; total time=32.4min\
+[CV] END C=56.41023493128766, gamma=0.6179458932625421, kernel=linear; total time=33.3min\
+[CV] END C=22.229243763717236, gamma=0.29255261513648234, kernel=rbf; total time=33.9min\
+[CV] END C=22.229243763717236, gamma=0.29255261513648234, kernel=rbf; total time=34.3min\
+[CV] END C=22.229243763717236, gamma=0.29255261513648234, kernel=rbf; total time=34.2min\
+[CV] END C=22.229243763717236, gamma=0.29255261513648234, kernel=rbf; total time=34.3min\
+[CV] END C=22.229243763717236, gamma=0.29255261513648234, kernel=rbf; total time=34.0min\
+[CV] END C=65.90223145612627, gamma=0.047497700506499485, kernel=linear; total time=36.5min\
+[CV] END C=62.40985145755137, gamma=0.729072906256593, kernel=rbf; total time=22.3min\
+[CV] END C=62.40985145755137, gamma=0.729072906256593, kernel=rbf; total time=22.2min\
+[CV] END C=65.90223145612627, gamma=0.047497700506499485, kernel=linear; total time=35.1min\
+[CV] END C=62.40985145755137, gamma=0.729072906256593, kernel=rbf; total time=22.3min\
+[CV] END C=62.40985145755137, gamma=0.729072906256593, kernel=rbf; total time=22.0min\
+[CV] END C=62.40985145755137, gamma=0.729072906256593, kernel=rbf; total time=22.3min\
+[CV] END C=89.11982092269058, gamma=0.5899832885655152, kernel=rbf; total time=23.5min\
+[CV] END C=89.11982092269058, gamma=0.5899832885655152, kernel=rbf; total time=23.3min\
+[CV] END C=89.11982092269058, gamma=0.5899832885655152, kernel=rbf; total time=23.1min\
+[CV] END C=89.11982092269058, gamma=0.5899832885655152, kernel=rbf; total time=23.2min\
+[CV] END C=89.11982092269058, gamma=0.5899832885655152, kernel=rbf; total time=23.3min\
+[CV] END C=65.90223145612627, gamma=0.047497700506499485, kernel=linear; total time=35.4min\
+[CV] END C=65.90223145612627, gamma=0.047497700506499485, kernel=linear; total time=35.7min\
+[CV] END C=65.90223145612627, gamma=0.047497700506499485, kernel=linear; total time=34.6min\
+[CV] END C=73.35285190181888, gamma=0.15779104695058022, kernel=linear; total time=35.0min\
+[CV] END C=73.35285190181888, gamma=0.15779104695058022, kernel=linear; total time=33.7min\
+[CV] END C=73.35285190181888, gamma=0.15779104695058022, kernel=linear; total time=32.1min\
+[CV] END C=73.35285190181888, gamma=0.15779104695058022, kernel=linear; total time=31.3min\
+[CV] END C=73.35285190181888, gamma=0.15779104695058022, kernel=linear; total time=32.4min\
+Best Parameters: \{'C': 46.40484709351605, 'gamma': 0.7917235295830276, 'kernel': 'rbf'\}\
+Best Cross-Validation Accuracy: 0.8880250000000001\
+Confusion Matrix:\
+[[4331  586]\
+ [ 533 4550]]\
+Accuracy: 0.8881\
+Classification Report:\
+              precision    recall  f1-score   support\
+\
+           0       0.89      0.88      0.89      4917\
+           1       0.89      0.90      0.89      5083\
+\
+    accuracy                           0.89     10000\
+   macro avg       0.89      0.89      0.89     10000\
+weighted avg       0.89      0.89      0.89     10000\
+\
+Precision = 0.8859\
+Recall = 0.8951\
+F1 Score = 0.8905\
+}
